@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/install",
+  "resources": {
+    "body": [
+      {
+        "type": "script",
+        "src": "./clear-sw-cache.js"
+      }
+    ]
+  }
+}
